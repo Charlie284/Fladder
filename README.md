@@ -119,6 +119,10 @@ You can pull the Docker version using the following tags: ```ghcr.io/donutware/f
 > [!WARNING]
 > (Windows) Some flutter applications are marked as false positives by windows defender for more info see [this issue](https://github.com/DonutWare/Fladder/issues/197#issuecomment-2568906874).
 
+## Documentation
+
+See the [documentation index](docs/README.md) for user, developer, architecture, localization and release guides.
+
 ## How to Contribute
 Interested in contributing? Here are a couple of ways you can help:
 
