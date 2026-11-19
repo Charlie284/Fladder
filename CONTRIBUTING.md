@@ -1,6 +1,15 @@
 ## How to Contribute
 Interest in contributing? Here are a couple of ways you can help:
 
+### Development
+
+See the [development guide](docs/development.md) for setup and code generation. Before submitting Dart changes, format and analyze:
+
+```sh
+dart format --line-length 120 ./lib/
+flutter analyze --fatal-infos
+```
+
 ### 🐛 Reporting Bugs
 - Before reporting a bug, **please ensure** that the issue hasn't been reported already.
 - When submitting a bug report, provide detailed steps on how the bug can be reproduced. This will help us to understand and fix the issue faster.

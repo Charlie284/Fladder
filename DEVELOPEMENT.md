@@ -1,3 +1,5 @@
+See the current [development guide](docs/development.md) for setup and commands.
+
 # 🚀 Fladder Dev Setup
 
 ## 🔧 Requirements
